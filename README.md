@@ -1,20 +1,14 @@
 # Customer Behavior
 
 
-By:
-- [Andrew Samy](https://github.com/IIAndrewII)
-- [Renad Hamdy](https://github.com/renadhamdy)
-- Mohamed Walid
-- Mohamed Osama
-
-
 ## 🎯 Contributors
 
-<a href="https://github.com/IIAndrewII/Customer_Behavior/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=IIAndrewII/Customer_Behavior" />
-</a>
+- [Andrew Samy](https://github.com/IIAndrewII)
+- [Renad Hamdy](https://github.com/renadhamdy)
+- [Mohamed Walid](mohamed.walid9633@gmail.com)
+- [Mohamed Osama](Mohamed7osama7@gmail.com)
 
-## 🍀 Sponsors
+## 🍀 Sponsor
 
 This project exists thanks to:  **information technology institute(ITI)**
 
