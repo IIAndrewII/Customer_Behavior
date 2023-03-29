@@ -1,4 +1,37 @@
-# Customer_Behavior
+# Customer Behavior
+
+
+By:
+- Andrew Samy
+- Renad Hamdy
+- Mohamed Walid
+- Mohamed Osama
+
+
+## 🎯 Contributors
+
+<a href="https://github.com/IIAndrewII/Customer_Behavior/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=IIAndrewII/Customer_Behavior" />
+
+
+## 🍀 Sponsors
+
+This project exists thanks to:  **information technology institute(iti)**
+
+</p>
+
+<p align="center">
+		<img width="10%" src="https://user-images.githubusercontent.com/81884621/188256478-03c82499-b8dc-425c-a160-5ebab2cd2350.png">
+	</a>
+
+
+</p>
+
+
+## About the data
+
+
+
 This is a behavior data set that contains about 9 million rows for two months (October and November 2019) from a medium cosmetics online store hosted by REES46 niche-specific personalization engine Platform. 
 
 
