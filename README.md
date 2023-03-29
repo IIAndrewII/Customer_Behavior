@@ -51,19 +51,10 @@ Each row in the file represents an event. All events are related to products and
 | user_id | Permanent user ID. |
 | user_session | Temporary user's session ID. Same for each user's session. Is changed every time user comes back to the online store after a long pause.|
 
+
+
+
 ## Business Requirements:
-
- `We will go through a series of:`
- 
- - Data cleansing,  
- - Data Transformation,  
- - RFM analysis,  
- - Power BI dashboards
- - Design a recommendation engine using association analysis
- 
- 
- `To fulfill the following Business Requirements:`
-
 
 - To what extent we are meeting our KPI’s?
 
@@ -84,16 +75,15 @@ Each row in the file represents an event. All events are related to products and
 - Design a system that helps the customer by suggesting products related to his cart Customized discounts 
 
 
-## Tech Stacks:
-- Python
-- Pandas (Library)
-- Numpy (Library)
-- Matplotlib.pyplot (Library)
-- Seaborn (Library)
-- datetime (Library)
-- apyori (Library)
-- Power BI (Dashboard and Analysis)
-
+## To fulfill the following Business Requirements, we will go through a series of:
+ 
+ - Data cleansing
+ - Data Transformation 
+ - RFM analysis 
+ - Power BI dashboards
+ - Design a recommendation engine using association analysis
+ 
+ 
 
 
 
