@@ -5,7 +5,7 @@
 
 - [Andrew Samy](https://github.com/IIAndrewII)
 - [Renad Hamdy](https://github.com/renadhamdy)
-- [Mohamed Walid](mohamed.walid9633@gmail.com)
+- [Mohamed Walid](https://github.com/MohamedWaleed56)
 - [Mohamed Osama](Mohamed7osama7@gmail.com)
 
 ## 🍀 Sponsor
