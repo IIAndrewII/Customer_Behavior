@@ -50,3 +50,22 @@ Each row in the file represents an event. All events are related to products and
 - Percent of lost customers 
 
 - Design a system that helps the customer by suggesting products related to his cart Customized discounts 
+
+
+### Tech Stacks:
+- Python
+- Pandas (Library)
+- Numpy (Library)
+- Matplotlib.pyplot (Library)
+- Seaborn (Library)
+- datetime (Library)
+- apyori (Library)
+- Power BI (Dashboard and Analysis)
+
+
+### Contributors:
+- Andrew Samy ([Email](andrew.samy.hanna1998@gmail.com), [GitHub](https://github.com/IIAndrewII))
+- Renad Hamdy ([Email](renadhamdy3@gmail.com), [GitHub]())
+- Mohamed Osama ([Email](Mohamed7osama7@gmail.com), [GitHub]())
+- Mohamed Walid ([Email](), [GitHub]())
+
