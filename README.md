@@ -20,7 +20,17 @@ Each row in the file represents an event. All events are related to products and
 | user_session | Temporary user's session ID. Same for each user's session. Is changed every time user comes back to the online store after a long pause.|
 
 ## Business Requirements:
- We will go through a series of data cleansing, data Transformation, RFM analysis, Power BI dashboards ,and design a recommendation engine using association analysis `To fulfill the following Business Requirements:`
+
+ `We will go through a series of:`
+ 
+ - Data cleansing,  
+ - Data Transformation,  
+ - RFM analysis,  
+ - Power BI dashboards
+ - Design a recommendation engine using association analysis
+ 
+ 
+ `To fulfill the following Business Requirements:`
 
 
 - To what extent we are meeting our KPI’s?
