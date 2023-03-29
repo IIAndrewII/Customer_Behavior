@@ -16,7 +16,7 @@ By:
 
 ## 🍀 Sponsors
 
-This project exists thanks to:  **information technology institute(iti)**
+This project exists thanks to:  **information technology institute(ITI)**
 
 </p>
 
