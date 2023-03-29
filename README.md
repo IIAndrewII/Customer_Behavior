@@ -35,7 +35,6 @@ This project exists thanks to:  **information technology institute(iti)**
 This is a behavior data set that contains about 9 million rows for two months (October and November 2019) from a medium cosmetics online store hosted by REES46 niche-specific personalization engine Platform. 
 
 
-## About the Data 
 Each row in the file represents an event. All events are related to products and users. Each event is like many_to-many relation between products and users. A session can have multiple purchase events if it's a single order.
 
 ## File structure:
