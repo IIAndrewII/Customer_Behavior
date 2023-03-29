@@ -11,8 +11,8 @@ By:
 ## 🎯 Contributors
 
 <a href="https://github.com/IIAndrewII/Customer_Behavior/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=IIAndrewII/Customer_Behavior" />
-
+  <img src="https://contrib.rocks/image?repo=IIAndrewII/Customer_Behavior" />
+</a>
 
 ## 🍀 Sponsors
 
