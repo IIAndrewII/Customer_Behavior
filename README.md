@@ -84,4 +84,56 @@ Each row in the file represents an event. All events are related to products and
 ## Gallery:
 
 
-...
+![image](https://user-images.githubusercontent.com/92961262/228973361-3d8f72ce-6d48-4192-9375-46b57ca93d80.png)
+
+Dashboard overview:
+Number of rows almost 9 million 
+Number of unique customers 713K 
+Number of unique products 45K
+Number of unique categories 455
+Total sales 2.74 M
+The first graph illustrate the number pf customers through the two months we can see that there is a peak in customers count from 20th to 25th of November and it makes sense as it the black Fridays season.
+
+The second graph illustrates the traffic of users through day hours.
+
+The third one represents the count of each event type through the two months.
+
+The fourth graph illustrates the percentage of total purchased products compared to the total views products.
+
+Suggestions based on the information mentioned above:
+The business should be ready before black Friday time, system is ready, enough products in inventories specially products with high demand.
+
+The total percentage of purchased products compared to viewed ones is very low so we should contact the marketing team to perform more campaigns and offers and request more from highly demanding products.
+
+
+
+october infographics 
+![image](https://user-images.githubusercontent.com/92961262/228973516-cbcc01f3-f15a-471f-a5fb-32b706fada22.png)
+
+
+
+November infographics
+![image](https://user-images.githubusercontent.com/92961262/228973612-d494ed14-bbb5-423d-bff7-f29676917d69.png)
+
+
+Valuable customers and most demanding products
+![image](https://user-images.githubusercontent.com/92961262/228973705-fdd32887-85bc-442d-80cd-768fd36b2de7.png)
+
+Dashboard overview:
+After we got knowing our business and an overview about our data set, it is the time to know more about our customers and products:
+
+The first graph illustrates the top 10 valuable customers we have.
+
+The second graph illustrates the most demanding brands.
+
+The third one illustrates the most demanding products, products frequently purchased from our customers.
+
+
+Suggestions based on the information mentioned above:
+
+Provide those top 10 customers with more promotions to keep their interest in our services.
+
+Regarding the most demanding brands, we must keep providing their products over time and identify their key characteristics to find more similar brands.
+
+Then regarding the most demanding products we have to make sure we have enough quantities in our inventories.
+
